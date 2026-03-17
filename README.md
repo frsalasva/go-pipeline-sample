@@ -29,5 +29,3 @@ Bring Your Own Infrastructure:
 
 MIT License
 # Trigger test
-# Trigger test 2
-# Trigger test 3
